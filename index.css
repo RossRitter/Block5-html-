@@ -1,0 +1,11 @@
+body { text-align: center;
+  background-color: green;
+
+}
+header {
+  text-decoration: underline;
+}
+ol{
+  border: 10px solid blue;
+  
+}
